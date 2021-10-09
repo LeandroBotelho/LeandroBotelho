@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning front-end and back-end
 - 👯 I’m looking collaborate to comunity 
 - 📫 How to reach me: coming soon
+ 
+ ##
 
 <div>
   <a href="https://github.com/LeandroBotelho">
